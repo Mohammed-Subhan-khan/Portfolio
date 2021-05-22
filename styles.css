@@ -83,7 +83,7 @@
 }
 .img-text:hover .subtitle {
     transition: 1s;
-    color: yellowgreen;
+    color: #8a8a8a;
 }
 .subtitle {
     font-weight: 600;
